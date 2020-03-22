@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dami.iml" filepath="$PROJECT_DIR$/dami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-consumer/dm-base-consumer/dm-base-consumer.iml" filepath="$PROJECT_DIR$/base-consumer/dm-base-consumer/dm-base-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-provider/dm-base-provider/dm-base-provider.iml" filepath="$PROJECT_DIR$/base-provider/dm-base-provider/dm-base-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-client/dm-common-client.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-client/dm-common-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-dao/dm-common-dao.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-dao/dm-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-dto/dm-common-dto.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-dto/dm-common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-ext-utils/dm-common-ext-utils.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-ext-utils/dm-common-ext-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-module/dm-common-module.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-module/dm-common-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/dm-common/dm-common-utils/dm-common-utils.iml" filepath="$PROJECT_DIR$/common/dm-common/dm-common-utils/dm-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-project/dm-config-server/dm-config-server.iml" filepath="$PROJECT_DIR$/env-project/dm-config-server/dm-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-project/dm-discovery-eureka/dm-discovery-eureka.iml" filepath="$PROJECT_DIR$/env-project/dm-discovery-eureka/dm-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileManager/dm-file-consumer/dm-file-consumer.iml" filepath="$PROJECT_DIR$/fileManager/dm-file-consumer/dm-file-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-project/dm-gateway-zuul/dm-gateway-zuul.iml" filepath="$PROJECT_DIR$/env-project/dm-gateway-zuul/dm-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-consumer/dm-item-consumer/dm-item-consumer.iml" filepath="$PROJECT_DIR$/item-consumer/dm-item-consumer/dm-item-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-provider/dm-item-provider/dm-item-provider.iml" filepath="$PROJECT_DIR$/item-provider/dm-item-provider/dm-item-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item-search/dm-item-search/dm-item-search.iml" filepath="$PROJECT_DIR$/item-search/dm-item-search/dm-item-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-consumer/dm-order-consumer/dm-order-consumer.iml" filepath="$PROJECT_DIR$/order-consumer/dm-order-consumer/dm-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-provider/dm-order-provider/dm-order-provider.iml" filepath="$PROJECT_DIR$/order-provider/dm-order-provider/dm-order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-consumer/dm-pay-consumer/dm-pay-consumer.iml" filepath="$PROJECT_DIR$/pay-consumer/dm-pay-consumer/dm-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-provider/dm-pay-provider/dm-pay-provider.iml" filepath="$PROJECT_DIR$/pay-provider/dm-pay-provider/dm-pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scheduler-consumer/dm-scheduler-consumer/dm-scheduler-consumer.iml" filepath="$PROJECT_DIR$/scheduler-consumer/dm-scheduler-consumer/dm-scheduler-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scheduler-provider/dm-scheduler-provider/dm-scheduler-provider.iml" filepath="$PROJECT_DIR$/scheduler-provider/dm-scheduler-provider/dm-scheduler-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-consumer/dm-user-consumer/dm-user-consumer.iml" filepath="$PROJECT_DIR$/user-consumer/dm-user-consumer/dm-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-provider/dm-user-provider/dm-user-provider.iml" filepath="$PROJECT_DIR$/user-provider/dm-user-provider/dm-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-project/dm-zipkin-server/dm-zipkin-server.iml" filepath="$PROJECT_DIR$/env-project/dm-zipkin-server/dm-zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

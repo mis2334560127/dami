@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/base-consumer/dm-base-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/base-provider/dm-base-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/common/dm-common/pom.xml" />
+        <option value="$PROJECT_DIR$/env-project/dm-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/env-project/dm-discovery-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/env-project/dm-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/env-project/dm-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/fileManager/dm-file-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/item-consumer/dm-item-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/item-provider/dm-item-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/item-search/dm-item-search/pom.xml" />
+        <option value="$PROJECT_DIR$/order-consumer/dm-order-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/order-provider/dm-order-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-consumer/dm-pay-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/pay-provider/dm-pay-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduler-consumer/dm-scheduler-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduler-provider/dm-scheduler-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/user-consumer/dm-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/user-provider/dm-user-provider/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
